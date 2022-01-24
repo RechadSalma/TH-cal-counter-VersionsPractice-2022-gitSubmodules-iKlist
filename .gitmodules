@@ -1,0 +1,6 @@
+[submodule "ikth-calculator-v1-js-webpack-pwa-bootstrap-2022"]
+	path = ikth-calculator-v1-js-webpack-pwa-bootstrap-2022
+	url = https://github.com/RechadSalma/ikth-calculator-v1-js-webpack-pwa-bootstrap-2022.git
+[submodule "ikth-calculator-v2-nextjs-react-pwa-css-2022"]
+	path = ikth-calculator-v2-nextjs-react-pwa-css-2022
+	url = https://github.com/RechadSalma/ikth-calculator-v2-nextjs-react-pwa-css-2022.git

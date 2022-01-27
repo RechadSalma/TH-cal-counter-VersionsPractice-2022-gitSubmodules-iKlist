@@ -4,3 +4,6 @@
 [submodule "ikth-calculator-v2-nextjs-react-pwa-css-2022"]
 	path = ikth-calculator-v2-nextjs-react-pwa-css-2022
 	url = https://github.com/RechadSalma/ikth-calculator-v2-nextjs-react-pwa-css-2022.git
+[submodule "ikth-increment-v3-webpack-react-react_router-2022"]
+	path = ikth-increment-v3-webpack-react-react_router-2022
+	url = https://github.com/RechadSalma/ikth-increment-v3-webpack-react-react_router-2022.git

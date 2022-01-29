@@ -10,15 +10,17 @@ practicing calculator, with different technologies. Not focus on making the calc
 
 ### list of versions
 
-- version01 _202201_: webpack / javascript / pwa / bootstrap
-- version02 _202201_: nextjs / react / css @media / --iKskip = PWA
+- **version01** _202201_: webpack / javascript / pwa / bootstrap
+- **version02** _202201_: nextjs / react / css @media / --iKskip = PWA
+- **version03** _202201_:webpack / react / react-router / react-helmet / react lazy loading / iKskip = / workbox pwa / css css-grid
 
-- version03: webpack / react / react-router ---iKskip = / workbox pwa / css css-grid
-- version04: nextjs / react / redux / sass @media
-- version05: webpack / react / react-router / redux / sass css-grid
-- version06: nextjs /react / redux / jest & react-testing-library / bootstrap
-- version07: webpack /react / react-router / redux / jest & react-testing-library / bootstrap
-- version08: webpack / typescript / css @media
-- version09: nextjs / react / typescript / sass css-grid
-- version10: webpack / react / react-router / typescript / sass @media
-- version11: gatsby / react / redux / workbox pwa / sass / jest & react-testing-library / bootstrap
+---
+
+- **version04**: nextjs / react / redux / sass @media
+- **version05**: webpack / react / react-router / redux / sass css-grid
+- **version06**: nextjs /react / redux / jest & react-testing-library / bootstrap
+- **version07**: webpack /react / react-router / redux / jest & react-testing-library / bootstrap
+- **version08**: webpack / typescript / css @media
+- **version09**: nextjs / react / typescript / sass css-grid
+- **version10**: webpack / react / react-router / typescript / sass @media
+- **version11**: gatsby / react / redux / workbox pwa / sass / jest & react-testing-library / bootstrap

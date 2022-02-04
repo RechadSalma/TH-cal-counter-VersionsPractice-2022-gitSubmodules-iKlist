@@ -7,6 +7,6 @@
 [submodule "ikth-counter-v3-rrouter-rhelmet-rlazy2022"]
 	path = ikth-counter-v3-rrouter-rhelmet-rlazy2022
 	url = https://github.com/RechadSalma/ikth-counter-v3-rrouter-rhelmet-rlazy2022.git
-[submodule "ikth-counter-v4-wp-redux-sass-2022"]
-	path = ikth-counter-v4-wp-redux-sass-2022
-	url = https://github.com/RechadSalma/ikth-counter-v4-wp-redux-sass-2022.git
+[submodule "ikth-counter-v4-nextjs-redux-sass-2022"]
+	path = ikth-counter-v4-nextjs-redux-sass-2022
+	url = https://github.com/RechadSalma/ikth-counter-v4-nextjs-redux-sass-2022.git

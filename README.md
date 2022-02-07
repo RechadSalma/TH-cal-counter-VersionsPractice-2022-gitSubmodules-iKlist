@@ -16,10 +16,10 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version02** _202201_: nextjs / react / css @media / --iKskip = PWA
 - **version03** _202201_:webpack / react / react-router / react-helmet / react lazy loading / iKskip = / workbox pwa / css css-grid
 - **version04** _202201_: nextjs / react / redux / redux-devtools / sass
+- **version05**: webpack / react / react-router / redux / sass / redux devtools / webpack image optimization plugins / Netlify form submission (contact form)
 
 ---
 
-- **version05**: webpack / react / react-router / redux / sass css-grid
 - **version06**: nextjs /react / redux / jest & react-testing-library / bootstrap
 - **version07**: webpack /react / react-router / redux / jest & react-testing-library / bootstrap
 - **version08**: webpack / typescript / css @media

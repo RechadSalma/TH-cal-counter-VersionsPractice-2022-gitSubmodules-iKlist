@@ -13,3 +13,6 @@
 [submodule "ikth-counter-v5-webpack-rRouter-redux-sass-2022"]
 	path = ikth-counter-v5-webpack-rRouter-redux-sass-2022
 	url = https://github.com/RechadSalma/ikth-counter-v5-webpack-rRouter-redux-sass-2022.git
+[submodule "ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022"]
+	path = ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022
+	url = https://github.com/RechadSalma/ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022.git

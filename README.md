@@ -17,12 +17,24 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version03** _202201_:webpack / react / react-router / react-helmet / react lazy loading / iKskip = / workbox pwa / css css-grid
 - **version04** _202201_: nextjs / react / redux / redux-devtools / sass
 - **version05**: webpack / react / react-router / redux / sass / redux devtools / webpack image optimization plugins / Netlify form submission (contact form)
+- **version06**: webpack / react / react-router / docker / sass / Heroku
 
 ---
 
-- **version06**: nextjs /react / redux / jest & react-testing-library / bootstrap
-- **version07**: webpack /react / react-router / redux / jest & react-testing-library / bootstrap
-- **version08**: webpack / typescript / css @media
-- **version09**: nextjs / react / typescript / sass css-grid
-- **version10**: webpack / react / react-router / typescript / sass @media
-- **version11**: gatsby / react / redux / workbox pwa / sass / jest & react-testing-library / bootstrap
+iK deciding
+
+- **version07**: / docker compose / Heroku
+  - docker volume too for Dockerfile.dev version to see live hot changes
+- **version08**: deploy a normal nodejs on Heroku
+
+- **version07**: nextjs /react / redux / jest & react-testing-library / sass with bootstrap / deploy on Vercel
+
+- **version08**: webpack /react / react-router / redux / jest & react-testing-library / sass with bootstrap
+
+- **version09**: webpack / typescript / css @media
+
+- **version10**: nextjs / react / react context api / typescript / sass css-grid
+
+- **version11**: webpack / react / react-router / typescript / sass @media
+
+- **version12**: gatsby / react / redux / workbox pwa / sass / jest & react-testing-library / bootstrap

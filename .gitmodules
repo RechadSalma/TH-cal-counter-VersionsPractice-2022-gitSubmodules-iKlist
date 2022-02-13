@@ -16,3 +16,6 @@
 [submodule "ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022"]
 	path = ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022
 	url = https://github.com/RechadSalma/ikth-counter-v6-webpack-docker-rRouter-redux-sass-2022.git
+[submodule "ikth-counter-v7-webpack-dockercompose-jsrouter-2022"]
+	path = ikth-counter-v7-webpack-dockercompose-jsrouter-2022
+	url = https://github.com/RechadSalma/ikth-counter-v7-webpack-dockercompose-jsrouter-2022.git

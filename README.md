@@ -18,13 +18,12 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version04** _202201_: nextjs / react / redux / redux-devtools / sass
 - **version05**: webpack / react / react-router / redux / sass / redux devtools / webpack image optimization plugins / Netlify form submission (contact form)
 - **version06**: webpack / react / react-router / docker / sass / Heroku
+- **version07** _202202_: javascript router / docker compose / sass with bootstrap
 
 ---
 
 iK deciding
 
-- **version07**: / docker compose / Heroku
-  - docker volume too for Dockerfile.dev version to see live hot changes
 - **version08**: deploy a normal nodejs on Heroku
 
 - **version07**: nextjs /react / redux / jest & react-testing-library / sass with bootstrap / deploy on Vercel

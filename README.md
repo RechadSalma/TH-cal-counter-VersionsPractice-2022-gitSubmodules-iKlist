@@ -19,12 +19,11 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version05**: webpack / react / react-router / redux / sass / redux devtools / webpack image optimization plugins / Netlify form submission (contact form)
 - **version06**: webpack / react / react-router / docker / sass / Heroku
 - **version07** _202202_: javascript router / docker compose / sass with bootstrap
+- **version08**: _202202_ nextjs / github Action / docker-compose / react / jest & react-testing-library / sass with bootstrap / deploy on Heroku
 
 ---
 
 iK deciding
-
-- **version08**: deploy a normal nodejs on Heroku
 
 - **version07**: nextjs /react / redux / jest & react-testing-library / sass with bootstrap / deploy on Vercel
 

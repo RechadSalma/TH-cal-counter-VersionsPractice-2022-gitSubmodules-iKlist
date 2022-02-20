@@ -20,6 +20,7 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version06**: webpack / react / react-router / docker / sass / Heroku
 - **version07** _202202_: javascript router / docker compose / sass with bootstrap
 - **version08**: _202202_ nextjs / github Action / docker-compose / react / jest & react-testing-library / sass with bootstrap / deploy on Heroku
+- **version09**: _202202_ webpack / typescript / javascript
 
 ---
 

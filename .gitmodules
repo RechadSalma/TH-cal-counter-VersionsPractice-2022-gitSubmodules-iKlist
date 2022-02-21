@@ -25,3 +25,6 @@
 [submodule "ikth-count-v09-webpack-js-typescript-2022"]
 	path = ikth-count-v09-webpack-js-typescript-2022
 	url = https://github.com/RechadSalma/ikth-count-v09-webpack-js-typescript-2022.git
+[submodule "ikth-count-v10-react-typescript-2022"]
+	path = ikth-count-v10-react-typescript-2022
+	url = https://github.com/RechadSalma/ikth-count-v10-react-typescript-2022.git

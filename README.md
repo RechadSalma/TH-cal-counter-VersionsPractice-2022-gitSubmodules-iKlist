@@ -21,19 +21,6 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version07** _202202_: javascript router / docker compose / sass with bootstrap
 - **version08**: _202202_ nextjs / github Action / docker-compose / react / jest & react-testing-library / sass with bootstrap / deploy on Heroku
 - **version09**: _202202_ webpack / typescript / javascript
+- **version10**: _20220221_ nextjs / typescript / react
 
 ---
-
-iK deciding
-
-- **version07**: nextjs /react / redux / jest & react-testing-library / sass with bootstrap / deploy on Vercel
-
-- **version08**: webpack /react / react-router / redux / jest & react-testing-library / sass with bootstrap
-
-- **version09**: webpack / typescript / css @media
-
-- **version10**: nextjs / react / react context api / typescript / sass css-grid
-
-- **version11**: webpack / react / react-router / typescript / sass @media
-
-- **version12**: gatsby / react / redux / workbox pwa / sass / jest & react-testing-library / bootstrap

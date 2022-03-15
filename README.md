@@ -22,5 +22,6 @@ _practicing calculator & counter, with different technologies. Not focus on maki
 - **version08**: _202202_ nextjs / github Action / docker-compose / react / jest & react-testing-library / sass with bootstrap / deploy on Heroku
 - **version09**: _202202_ webpack / typescript / javascript
 - **version10**: _20220221_ nextjs / typescript / react
+- **version11**: _20220315_ fullstack / Postresql (heroku version) / Auth0 / webpack react frontend / express backend / docker-compose
 
 ---

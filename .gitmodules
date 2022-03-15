@@ -28,3 +28,6 @@
 [submodule "ikth-count-v10-react-typescript-2022"]
 	path = ikth-count-v10-react-typescript-2022
 	url = https://github.com/RechadSalma/ikth-count-v10-react-typescript-2022.git
+[submodule "ikth-v11-fs-csrwebpack-psql-auth0-2022"]
+	path = ikth-v11-fs-csrwebpack-psql-auth0-2022
+	url = https://github.com/RechadSalma/ikth-v11-fs-csrwebpack-psql-auth0-2022.git
